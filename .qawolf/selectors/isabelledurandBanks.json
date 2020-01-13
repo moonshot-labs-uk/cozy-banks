@@ -1,0 +1,72 @@
+[
+ {
+  "index": 0,
+  "html": {
+   "ancestors": [
+    "<div class=\"o-field password-form u-m-0\"></div>",
+    "<div role=\"region\" class=\"wizard-main\" id=\"login-field\"></div>"
+   ],
+   "node": "<input id=\"password\" class=\"wizard-input c-input-text\" name=\"passphrase\" type=\"password\" autofocus=\"\" autocomplete=\"current-password\" labels=\"MOT DE PASSE\"/>"
+  }
+ },
+ {
+  "index": 1,
+  "html": {
+   "ancestors": [
+    "<div class=\"o-field password-form u-m-0\"></div>",
+    "<div role=\"region\" class=\"wizard-main\" id=\"login-field\"></div>"
+   ],
+   "node": "<input id=\"password\" class=\"wizard-input c-input-text\" name=\"passphrase\" type=\"password\" autofocus=\"\" autocomplete=\"current-password\" labels=\"MOT DE PASSE\"/>"
+  }
+ },
+ {
+  "index": 2,
+  "html": {
+   "ancestors": [
+    "<li class=\"styles__c-nav-item___3XOLK\"></li>",
+    "<ul class=\"styles__c-nav___33dZy\"></ul>"
+   ],
+   "node": "<a href=\"#/settings\" class=\"styles__c-nav-link___3mK6W\" style=\"outline: none;\" innertext=\"Paramètres\"><span class=\"styles__c-nav-icon___hrJUe\"><svg class=\"styles__icon___23x3R\" width=\"16\" height=\"16\" aria-hidden=\"true\" focusable=\"false\"><use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"#gear\"/></svg></span><span class=\"styles__c-nav-text___1J3yU\">Paramètres</span></a>"
+  }
+ },
+ {
+  "index": 3,
+  "html": {
+   "ancestors": [
+    "<div class=\"styles__coz-tab-list___3qac8 Settings_bnk-coz-tab-list_2O8Sd\"></div>",
+    "<div class=\"styles__coz-tabs___24QL5 Settings_bnk-tabs_2sCM9\"></div>"
+   ],
+   "node": "<div class=\"styles__coz-tab___2mOye\" innertext=\"COMPTES\">Comptes</div>"
+  }
+ },
+ {
+  "index": 4,
+  "html": {
+   "ancestors": [
+    "<div class=\"styles__coz-tab-list___3qac8 Settings_bnk-coz-tab-list_2O8Sd\"></div>",
+    "<div class=\"styles__coz-tabs___24QL5 Settings_bnk-tabs_2sCM9\"></div>"
+   ],
+   "node": "<div class=\"styles__coz-tab___2mOye\" innertext=\"GROUPES\">Groupes</div>"
+  }
+ },
+ {
+  "index": 5,
+  "html": {
+   "ancestors": [
+    "<li class=\"styles__c-nav-item___3XOLK\"></li>",
+    "<ul class=\"styles__c-nav___33dZy\"></ul>"
+   ],
+   "node": "<a href=\"#/categories\" class=\"styles__c-nav-link___3mK6W\" style=\"outline: none;\" innertext=\"Analyse\"><span class=\"styles__c-nav-icon___hrJUe\"><svg class=\"styles__icon___23x3R\" width=\"16\" height=\"16\" aria-hidden=\"true\" focusable=\"false\"><use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"#icon-graph\"/></svg></span><span class=\"styles__c-nav-text___1J3yU\">Analyse</span></a>"
+  }
+ },
+ {
+  "index": 6,
+  "html": {
+   "ancestors": [
+    "<li class=\"styles__c-nav-item___3XOLK\"></li>",
+    "<ul class=\"styles__c-nav___33dZy\"></ul>"
+   ],
+   "node": "<a href=\"#/categories\" class=\"styles__c-nav-link___3mK6W styles__is-active___2D0jN\" style=\"outline: none;\" innertext=\"Analyse\"><span class=\"styles__c-nav-icon___hrJUe\"><svg class=\"styles__icon___23x3R\" width=\"16\" height=\"16\" aria-hidden=\"true\" focusable=\"false\"><use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"#icon-graph\"/></svg></span><span class=\"styles__c-nav-text___1J3yU\">Analyse</span></a>"
+  }
+ }
+]
